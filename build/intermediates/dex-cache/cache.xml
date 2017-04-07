@@ -3,201 +3,201 @@
 
     <item
         is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/a9ea493d2d2f76a05a92c6a978ec592c92158cb5/output/jars/classes.jar"
+        jar="/Users/SuYa/.android/build-cache/abfd6eeaa7c09374d99e39534c1c23529df02e7c/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac37eeccee9f3a51c3af84d9d09fa20062161e51/classes.dex" />
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ebc2a209432cf5debe3c244c178af6559b64e54/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/e1e7d69c411ada5a8e6ed6c1f795516298eac699/output/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/SuYa/.android/build-cache/65c348c5e3cebe6c4980bc06632248d2281ec349/output/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_74c6744772ee3e06e90fc4c663d805a84170d71c/classes.dex" />
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ec39f544e0095127484e20556d3998e32d17088b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/74bef810530ac181bb2aabf9f43aa56d6204b6bf/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_bd026703e383866c2099f4bc341a8b871cfa3141/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_10c05f9b0e80ecf2b06688c9ee487dfa1a93352f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/592a4427ae761bdc4393c7e13d56a7c703c142ea/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bd5976acc39228eca8627375ae2df8caaf4e7cd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/9190e172ecf5fd8989365fa0658557ca87a60f9c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b577de4b362b2f2268e6cf117cd642c477ac0e6b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/27035aac088af137c9d7dc6c6b8557b221eabcbe/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08ea3ca9febf1c6b8ce0914d6369e431a5b2c1b9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b7035c3be011c43b3cc59f15fac9470f903858f1">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_573322da61e0e9a26ee7a12ba528b6e7e7c219b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/592a4427ae761bdc4393c7e13d56a7c703c142ea/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3361f5059010d85148f4da20cce7df3b5fc0028d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/c85c9cedcd4cb83668797beb765849d79c280559/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcc84254a8e640b29dec18b5fe508cffc81186b6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/adee5d1fc3801925865f686a5eaca7ed65f84151/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7134645092e0579d4ab6353223384a0e6d1fc37e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/c85c9cedcd4cb83668797beb765849d79c280559/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a753a0c5afc5d97d3fb0499b2b1e1f23db5af449/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/adee5d1fc3801925865f686a5eaca7ed65f84151/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_934dfa1e15c523af449c23117ba3df9d69f0f202/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/e1e7d69c411ada5a8e6ed6c1f795516298eac699/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24da999f5d49a5620d6f5100b215eac344a335f9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/b04112b1dc52e64f63f0bf071cb609cab07e5a1c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11162f3b88f7de948c587580c22cfbcd0c8b150e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/9254f68c6a7cf41fb857617c82ecf4069c5efeda/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bc87b0162481a02931f5f07a9d69a1a84f09d79/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_e9eb4ff2faf6725be5206faa4de66971446fd7d3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/5fc45c40e7d5fe0d2aee853837923096b99978f4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_204e8ea22b325f92cdbbf6cf34b9d2a3520c2775/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/bacde94cdaa0d9a9c83911f1c5dfb20b82651362/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_167b2f37977f78bd637f3703bf422731bf536518/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0b57dfd9b2d79afc3db01202b4dcc01e9eff0aa5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/74bef810530ac181bb2aabf9f43aa56d6204b6bf/output/jars/classes.jar"
+        jar="/Users/SuYa/.android/build-cache/cd0f9a8ebcc2a2cdcf2c74731567198227c9ab62/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b068a064841b6cd0bbb22acb9c03040f6bfc1a3/classes.dex" />
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_429993d0c8dd7ff6c94f2656c289b77010c94dcf/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jeon-yongsu/.android/build-cache/ef48b0391b0e5e4df4e1c26633e4d52b93abe77c/output/jars/classes.jar"
+        jar="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cecd53eaa0789c40b476eb6ea9297e0ca0e6bf39">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_623895d20ff84e2528c4338408c35fb68a2bbc02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/f88cd55b826d68e394749a982babb5361af6d938/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d31f5cafff76352bbba1520e97b4e68792d5ae28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/be9b89a8b1f881373c6604748934f9fe008d30c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_420f8a76edf6ae44654d74f7fc2c9c6a547d0b5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/d3f575a28b354172fbf73761a562ac00a9f5b697/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec4136927822530717d08c4ac3171a377b14b01e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/5d5e6d9721ff5c590f7b2fee5bba5aea8660019a/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/jeon-yongsu/Documents/android_project/DynamicBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2e2d5c6d5854ce0b13151e57d1c934c7b2a173b/classes.dex" />
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2630848643357042e836b2c380dbadeeea22ff8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/be9b89a8b1f881373c6604748934f9fe008d30c5/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_99c434bbfda6529d97f684da19c565ece3d04e71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/ef398607f91bdd2e8c2f3ebae53d8f3f4f252281/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47a809b03f9a62a0801a7f113933fa2bb919b4cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/af817106fe7cc7c0f3e17972903bbdb87b03d0d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fd59d882ceda978e92603cca12c33ed8d9017bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_4895c7664ae65eddf86b664199d846a80399e14b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bfa15cf691a7a183dd1e788da209d9215d061505/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/56deb60e102fd2af8546d99c8cbdecab43818c9d/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a65e51318e5112b6ef7194fbacbdaf4e024d85fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/05be55159781c541349c8595a99d3b746ebbeebf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9526ff9571ea6995f05b2e1b61124fe15ce8b249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/d3f575a28b354172fbf73761a562ac00a9f5b697/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7d80725b804fd5e7d02f2655570866ce754c10a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7c71239c6ea8311b7e5e1f018a4df1aa62d10460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/ecfd93b064369256faf7c9aa0670f3391b14ab0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b473ee16ce110156ff797686e6c8ee7879ce7c69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/a9fcb5b81147a645b9d0115086e235a8c86bc6fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7361d99d985aa53a8558b178568166887ab24f18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/65c348c5e3cebe6c4980bc06632248d2281ec349/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d11b9b9943b59853a9383718cca6800ecb8d2fd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/56deb60e102fd2af8546d99c8cbdecab43818c9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e29cf16f71401ccd4f34c5261e4a40af0c9b6672/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SuYa/.android/build-cache/cd0f9a8ebcc2a2cdcf2c74731567198227c9ab62/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/SuYa/Documents/project_android/coordinatorlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1d42b0b4684ded499249d90dbdfdb7fb3c246746/classes.dex" />
     </item>
 
 </items>
