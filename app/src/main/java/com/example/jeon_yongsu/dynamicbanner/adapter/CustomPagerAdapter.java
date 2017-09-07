@@ -2,11 +2,9 @@ package com.example.jeon_yongsu.dynamicbanner.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
-
-import com.example.jeon_yongsu.dynamicbanner.RecyclerFragment;
+import com.example.jeon_yongsu.dynamicbanner.WebviewFragment;
 
 import java.util.ArrayList;
 
@@ -25,7 +23,8 @@ public class CustomPagerAdapter extends FragmentStatePagerAdapter {
 
     @Override
     public Fragment getItem(int index) {
-        RecyclerFragment fragment = new RecyclerFragment();
+//        RecyclerFragment fragment = new RecyclerFragment();
+        WebviewFragment fragment = new WebviewFragment();
         return fragment;
     }
 
